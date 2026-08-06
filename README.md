@@ -1,5 +1,12 @@
-# DAA-LAB PRATICAL 01
+# DAA-LAB PRATICALS
+PRATICAL 01
 
 SUMMARY: algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. The program generates an array of 100 random integers, sorts the array using each algorithm, and measures the execution time in microseconds using Python's time.perform_counter() function. The recorded execution times show that Quick Sort is the fastest, followed by Merge Sort and Insertion Sort, while Bubble Sort is the slowest.
 
 CONCLUSION: This practical demonstrates the differences in efficiency among various sorting algorithms. The results indicate that Quick Sort provides the best performance for the given dataset, while Merge Sort also performs efficiently. Bubble Sort and Selection Sort take more time because of their higher time complexity. Therefore, advanced sorting algorithms such as Quick Sort and Merge Sort are more suitable for handling large datasets, whereas simpler algorithms like Bubble Sort and Selection Sort are mainly useful for learning and small datasets.
+
+PRATICAL 02
+
+SUMMARY: This practical implements and compares the performance of Linear Search and Binary Search algorithms. A sorted array of 100,000 elements is created, and both algorithms are used to search for a user-specified element.
+
+CONCLUSION : The experiment demonstrates that Binary Search is much more efficient than Linear Search for searching in a sorted array. Linear Search has a time complexity of O(n), whereas Binary Search has a time complexity of O(log n). The measured execution times confirm that Binary Search requires considerably less time to locate an element, especially as the dataset size increases. Therefore, Binary Search is the preferred algorithm for searching in large sorted datasets, while Linear Search is suitable for small or unsorted collections.
