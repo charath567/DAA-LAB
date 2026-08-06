@@ -1,4 +1,4 @@
-# DAA-LAB
+# DAA-LAB PRATICAL 01
 
 SUMMARY: algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. The program generates an array of 100 random integers, sorts the array using each algorithm, and measures the execution time in microseconds using Python's time.perform_counter() function. The recorded execution times show that Quick Sort is the fastest, followed by Merge Sort and Insertion Sort, while Bubble Sort is the slowest.
 
