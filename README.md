@@ -16,3 +16,11 @@ PRATICAL 03
 SUMMARY: The practical implements Heap Sort using a Max Heap. The program first creates an array of random integers based on the user-specified size. It then builds a Max Heap using the max_heapify() function and repeatedly moves the largest element to the end of the array. Finally, the array is displayed in ascending order.
 
 CONCLUSION: The experiment demonstrates that Heap Sort is an efficient comparison-based sorting algorithm. It uses a Max Heap to repeatedly select the largest element and place it in its correct position. Heap Sort has a time complexity of O(n log n) in the best, average, and worst cases, making it suitable for sorting large datasets.
+
+PRATICAL 04
+
+Summary:
+The program calculates the factorial of a non-negative integer using an iterative loop and measures its execution time. It has O(n) time complexity and O(1) space complexity.
+
+Conclusion
+The program efficiently calculates factorial using iteration with O(n) time and O(1) space. It also measures the execution time of the calculation.
