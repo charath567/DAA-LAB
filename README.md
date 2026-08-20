@@ -19,8 +19,8 @@ CONCLUSION: The experiment demonstrates that Heap Sort is an efficient compariso
 
 PRATICAL 04
 
-Summary:
+SUMMARY:
 The program calculates the factorial of a non-negative integer using an iterative loop and measures its execution time. It has O(n) time complexity and O(1) space complexity.
 
-Conclusion:
+CONCLUSION:
 The program efficiently calculates factorial using iteration with O(n) time and O(1) space. It also measures the execution time of the calculation.
